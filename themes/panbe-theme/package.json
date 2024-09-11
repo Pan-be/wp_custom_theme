@@ -1,0 +1,23 @@
+{
+    "name": "panbe-theme",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start",
+        "dev": "wp-scripts start",
+        "devFast": "wp-scripts start",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "pan.be",
+    "license": "MIT",
+    "dependencies": {
+        "@glidejs/glide": "3.6.2",
+        "@wordpress/scripts": "*",
+        "axios": "1.7.2",
+        "normalize.css": "^8.0.1"
+    }
+}
