@@ -16,7 +16,7 @@
                     <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
                         <a class="navbar-brand" href="<?php echo site_url() ?>">
                             <span>
-                                Esigned
+                                Pan.be
                             </span>
                         </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"

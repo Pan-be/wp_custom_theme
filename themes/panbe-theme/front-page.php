@@ -32,10 +32,7 @@ get_header();
                         <div class="col">
                             <div class="detail-box">
                                 <div>
-                                    <h2>
-                                        <<'Description'>>
-
-                                    </h2>
+                                    <h2></h2>
                                     <h1><?php the_title(); ?></h1>
                                     <p><?php 
                                     if (has_excerpt()) {
@@ -388,7 +385,7 @@ get_header();
 
 <!-- contact section -->
 
-<section class="contact_section layout_padding">
+<!-- <section class="contact_section layout_padding">
     <div class="container">
 
         <div class="heading_container">
@@ -425,11 +422,11 @@ get_header();
                 </div>
             </div>
         </div>
-        <!-- <div class="map_img-box">
+        <div class="map_img-box">
             <img src="images/map-img.png" alt="">
-        </div> -->
+        </div>
     </div>
-</section>
+</section> -->
 
 
 <!-- end contact section -->

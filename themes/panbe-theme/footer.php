@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <div class="info_contact">
+                    <!-- <div class="info_contact">
                         <h5>
                             About Shop
                         </h5>
@@ -34,7 +34,7 @@
                                 demo@gmail.com
                             </p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-md-3">
                     <div class="info_info">
@@ -95,7 +95,7 @@
                 </div>
                 <div class="col-md-3">
                     <div class="info_form ">
-                        <h5>
+                        <!-- <h5>
                             Newsletter
                         </h5>
                         <form action="">
@@ -103,7 +103,7 @@
                             <button>
                                 Subscribe
                             </button>
-                        </form>
+                        </form> -->
                         <div class="social_box">
                             <a href="">
                                 <img src="<?php echo get_theme_file_uri( 'images/fb.png' ) ?>" alt="">
@@ -125,8 +125,8 @@
     </section>
     <section class="container-fluid footer_section">
         <p>
-            &copy; 2020 All Rights Reserved By
-            <a href="https://html.design/">Free Html Templates</a>
+            &copy; <?php echo date("Y"); ?> All Rights Reserved By
+            <a target="_blank" href="https://pan-be.vercel.app/">pan.be</a>
         </p>
     </section>
 
