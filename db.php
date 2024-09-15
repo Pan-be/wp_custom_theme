@@ -1,0 +1,1 @@
+/home/bieniekk/Local Sites/panbe/app/public/wp-content/plugins/query-monitor/wp-content/db.php
